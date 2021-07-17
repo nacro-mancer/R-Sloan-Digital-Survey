@@ -45,7 +45,3 @@ It can be concluded that the data is more linearly separable.
 By observing on different models, we can conclude that the data is more suitable for logistic regression model.
 The Highest accuracy achieved is 99% with the logistic regression model, while other models like SVM linear performing well enough.
 KNN classifier has the poorest accuracy, it doesn’t perform well for quasar class specifically.
-
-
-![image](https://user-images.githubusercontent.com/37978451/126048296-47f7c725-4c78-4edc-b296-126435058614.png)
-
