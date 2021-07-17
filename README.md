@@ -1,6 +1,5 @@
 # Sloan-Digital-Survey
-##### Classification of STARS, GALAXY & QUASARS
-![image](https://user-images.githubusercontent.com/37978451/126048537-fcb70fbd-cf0c-445c-a5e2-f69f95b7fb3f.png)
+#### Classification of STARS, GALAXY & QUASARS
 The Objective is to understand different factors responsible for distinguishing a celestial object, 
 whether it be a star, galaxy or quasars by building a model. The model uses various independent variables 
 to predict if the celestial body. The goal is to achieve highest accuracy as possible by using the data to
